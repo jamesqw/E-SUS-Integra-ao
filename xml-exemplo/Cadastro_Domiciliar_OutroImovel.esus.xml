@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte" xmlns:ns4="http://esus.ufsc.br/cadastrodomiciliar">
+	<uuidDadoSerializado>5444429-e5df6b42-313d-4efe-add1-24cdc368cda9</uuidDadoSerializado>
+	<tipoDadoSerializado>3</tipoDadoSerializado>
+	<codIbge>4205407</codIbge>
+	<cnesDadoSerializado>5444429</cnesDadoSerializado>
+	<numLote>1</numLote>
+	<ns4:cadastroDomiciliarTransport>
+		<condicaoMoradia>
+			<abastecimentoAgua>117</abastecimentoAgua>
+			<destinoLixo>96</destinoLixo>
+			<formaEscoamentoBanheiro>123</formaEscoamentoBanheiro>
+			<localizacao>83</localizacao>
+			<nuMoradores>5</nuMoradores>
+			<stDisponibilidadeEnergiaEletrica>true</stDisponibilidadeEnergiaEletrica>
+			<aguaConsumoDomicilio>98</aguaConsumoDomicilio>
+		</condicaoMoradia>
+		<enderecoLocalPermanencia>
+			<bairro>TRINDADE</bairro>
+			<cep>88036400</cep>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+			<complemento>CASA</complemento>
+			<nomeLogradouro>LUIZ OSCAR DE CARVALHO</nomeLogradouro>
+			<numero>100</numero>
+			<numeroDneUf>25</numeroDneUf>
+			<telefoneContato>99999999999</telefoneContato>
+			<tipoLogradouroNumeroDne>081</tipoLogradouroNumeroDne>
+			<stSemNumero>false</stSemNumero>
+			<pontoReferencia>MERCADO</pontoReferencia>
+			<microArea>05</microArea>
+			<stForaArea>false</stForaArea>
+		</enderecoLocalPermanencia>
+		<fichaAtualizada>false</fichaAtualizada>
+		<statusTermoRecusa>false</statusTermoRecusa>
+		<tpCdsOrigem>3</tpCdsOrigem>
+		<uuid>5444429-e5df6b42-313d-4efe-add1-24cdc368cda9</uuid>
+		<uuidFichaOriginadora>5444429-e5df6b42-313d-4efe-add1-24cdc368cda9</uuidFichaOriginadora>
+		<tipoDeImovel>7</tipoDeImovel>
+		<instituicaoPermanencia>
+			<nomeInstituicaoPermanencia>instituição de permanência</nomeInstituicaoPermanencia>
+			<stOutrosProfissionaisVinculados>true</stOutrosProfissionaisVinculados>
+			<nomeResponsavelTecnico>josé da silva</nomeResponsavelTecnico>
+			<cnsResponsavelTecnico>192308788760001</cnsResponsavelTecnico>
+			<cargoInstituicao>administrador</cargoInstituicao>
+			<telefoneResponsavelTecnico>99999999999</telefoneResponsavelTecnico>
+		</instituicaoPermanencia>
+		<headerTransport>
+			<profissionalCNS>700609923387762</profissionalCNS>
+			<cboCodigo_2002>515105</cboCodigo_2002>
+			<cnes>5444429</cnes>
+			<dataAtendimento>1517148000000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+	</ns4:cadastroDomiciliarTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR INSTALAÇÃO</nomeOuRazaoSocial>
+		<fone>8216756527</fone>
+		<email>prof@esus.br</email>
+		<versaoSistema>3.0.01</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR INSTALAÇÃO</nomeOuRazaoSocial>
+		<fone>8216756527</fone>
+		<email>prof@esus.br</email>
+		<versaoSistema>3.0.01</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:originadora>
+	<versao major="3" minor="0" revision="0" />
+</ns3:dadoTransporteTransportXml>

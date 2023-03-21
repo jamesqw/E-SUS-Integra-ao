@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte" xmlns:ns4="http://esus.ufsc.br/cadastroindividual">
+	<uuidDadoSerializado>5444429-9b109465-2b83-4c9e-89dd-aa6223f24a95</uuidDadoSerializado>
+	<tipoDadoSerializado>2</tipoDadoSerializado>
+	<codIbge>4205407</codIbge>
+	<cnesDadoSerializado>5444429</cnesDadoSerializado>
+	<ineDadoSerializado>1382855330</ineDadoSerializado>
+	<numLote>1</numLote>
+	<ns4:cadastroIndividualTransport>
+		<condicoesDeSaude />
+		<emSituacaoDeRua />
+		<fichaAtualizada>false</fichaAtualizada>
+		<identificacaoUsuarioCidadao>
+			<nomeSocial></nomeSocial>
+			<dataNascimentoCidadao>1012658400000</dataNascimentoCidadao>
+			<desconheceNomeMae>true</desconheceNomeMae>
+			<emailCidadao>gmail@gmail.com</emailCidadao>
+			<nacionalidadeCidadao>2</nacionalidadeCidadao>
+			<nomeCidadao>ABREU SILVA</nomeCidadao>
+			<cnsCidadao>279573698530018</cnsCidadao>
+			<cnsResponsavelFamiliar>898050047989752</cnsResponsavelFamiliar>
+			<telefoneCelular>99999999999</telefoneCelular>
+			<racaCorCidadao>1</racaCorCidadao>
+			<sexoCidadao>0</sexoCidadao>
+			<statusEhResponsavel>false</statusEhResponsavel>
+			<desconheceNomePai>true</desconheceNomePai>
+			<dtNaturalizacao>1515160800000</dtNaturalizacao>
+			<portariaNaturalizacao>01234567890</portariaNaturalizacao>
+			<microArea>FA</microArea>
+			<stForaArea>true</stForaArea>
+		</identificacaoUsuarioCidadao>
+		<informacoesSocioDemograficas />
+		<saidaCidadaoCadastro />
+		<statusTermoRecusaCadastroIndividualAtencaoBasica>true</statusTermoRecusaCadastroIndividualAtencaoBasica>
+		<tpCdsOrigem>3</tpCdsOrigem>
+		<uuid>5444429-9b109465-2b83-4c9e-89dd-aa6223f24a95</uuid>
+		<uuidFichaOriginadora>5444429-9b109465-2b83-4c9e-89dd-aa6223f24a95</uuidFichaOriginadora>
+		<headerTransport>
+			<profissionalCNS>700609923387762</profissionalCNS>
+			<cboCodigo_2002>223505</cboCodigo_2002>
+			<cnes>5444429</cnes>
+			<ine>1382855330</ine>
+			<dataAtendimento>1517148000000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+	</ns4:cadastroIndividualTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR INSTALAÇÃO</nomeOuRazaoSocial>
+		<fone>8216756527</fone>
+		<email>prof@esus.br</email>
+		<versaoSistema>3.0.01</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>0123456890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR INSTALAÇÃO</nomeOuRazaoSocial>
+		<fone>8216756527</fone>
+		<email>prof@esus.br</email>
+		<versaoSistema>3.0.01</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:originadora>
+	<versao major="3" minor="0" revision="0" />
+</ns3:dadoTransporteTransportXml>

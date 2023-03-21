@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:dadoTransporteTransportXml xmlns:ns2="http://esus.ufsc.br/dadoinstalacao" xmlns:ns3="http://esus.ufsc.br/dadotransporte" xmlns:ns4="http://esus.ufsc.br/fichaatividadecoletiva">
+	<uuidDadoSerializado>5444429-4d5c25d6-f4b6-4c5e-a8b8-7651ef1d4ffe</uuidDadoSerializado>
+	<tipoDadoSerializado>6</tipoDadoSerializado>
+	<codIbge>4205407</codIbge>
+	<cnesDadoSerializado>5444429</cnesDadoSerializado>
+	<numLote>1</numLote>
+	<ns4:fichaAtividadeColetivaTransport>
+		<uuidFicha>5444429-4d5c25d6-f4b6-4c5e-a8b8-7651ef1d4ffe</uuidFicha>
+		<outraLocalidade>salão comunitário</outraLocalidade>
+		<numParticipantes>10</numParticipantes>
+		<numAvaliacoesAlteradas>0</numAvaliacoesAlteradas>
+		<atividadeTipo>5</atividadeTipo>
+		<publicoAlvo>18</publicoAlvo>
+		<publicoAlvo>4</publicoAlvo>
+		<participantes>
+			<cnsParticipante>127301025020001</cnsParticipante>
+			<dataNascimento>908287200000</dataNascimento>
+			<avaliacaoAlterada>false</avaliacaoAlterada>
+			<cessouHabitoFumar>true</cessouHabitoFumar>
+			<abandonouGrupo>false</abandonouGrupo>
+			<sexo>1</sexo>
+		</participantes>
+		<tbCdsOrigem>3</tbCdsOrigem>
+		<turno>2</turno>
+		<pseEducacao>false</pseEducacao>
+		<pseSaude>false</pseSaude>
+		<headerTransport>
+			<profissionalCNS>279772041750007</profissionalCNS>
+			<cboCodigo_2002>223208</cboCodigo_2002>
+			<cnes>5444429</cnes>
+			<dataAtendimento>1517320800000</dataAtendimento>
+			<codigoIbgeMunicipio>4205407</codigoIbgeMunicipio>
+		</headerTransport>
+		<temasParaSaude>15</temasParaSaude>
+		<praticasEmSaude>2</praticasEmSaude>
+		<praticasEmSaude>28</praticasEmSaude>
+		<praticasEmSaude>12</praticasEmSaude>
+	</ns4:fichaAtividadeColetivaTransport>
+	<ns2:remetente>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR INSTALAÇÃO</nomeOuRazaoSocial>
+		<fone>8216756527</fone>
+		<email>prof@esus.br</email>
+		<versaoSistema>3.0.01</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:remetente>
+	<ns2:originadora>
+		<contraChave>TREINAMENTO</contraChave>
+		<uuidInstalacao>TREINAMENTO</uuidInstalacao>
+		<cpfOuCnpj>01234567890</cpfOuCnpj>
+		<nomeOuRazaoSocial>ADMINISTRADOR INSTALAÇÃO</nomeOuRazaoSocial>
+		<fone>8216756527</fone>
+		<email>prof@esus.br</email>
+		<versaoSistema>3.0.01</versaoSistema>
+		<nomeBancoDados>Postgres</nomeBancoDados>
+	</ns2:originadora>
+	<versao major="3" minor="0" revision="0" />
+</ns3:dadoTransporteTransportXml>
